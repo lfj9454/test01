@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Test01 {
 	public static void main(String args[]){
-		String tests = "this is just a test String";
+		String tests = "this is just a test fsfdsString";
 		String[] arrs = tests.split(" ");
 		List<String> list1 = new ArrayList<String>();
 		int len = arrs.length;
